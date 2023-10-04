@@ -192,6 +192,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5373351793187629640, guid: fc992094e3ec32e44b8ca30d1083688f, type: 3}
+      propertyPath: m_Volume
+      value: 0.1
+      objectReference: {fileID: 0}
     - target: {fileID: 5373351793187629641, guid: fc992094e3ec32e44b8ca30d1083688f, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -236,6 +240,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5373351793187629642, guid: fc992094e3ec32e44b8ca30d1083688f, type: 3}
+      propertyPath: startSound
+      value: 
+      objectReference: {fileID: 8300000, guid: 1ff33a5d02bcccc45a9bd0db3ab6bf67, type: 3}
     - target: {fileID: 5373351793187629647, guid: fc992094e3ec32e44b8ca30d1083688f, type: 3}
       propertyPath: m_Name
       value: Game Start

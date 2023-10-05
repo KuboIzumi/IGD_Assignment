@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 516de74164e89b74ea5d7964028f6fc3
+guid: 6b2507fed29cbfb408a8675456b9be03
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,13 +107,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sharkman_0
+      name: Shark_Orange_0
       rect:
         serializedVersion: 2
         x: 2
         y: 2
-        width: 13
-        height: 13
+        width: 28
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,41 +121,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 708ccb29f75c2f844b700c6cf55d9772
-      internalID: -83966913
+      spriteID: cacdbc2ce95b5dc41bba83a62ec2e57d
+      internalID: 2089119213
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sharkman_1
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 2
-        width: 13
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bcf31fd337f1ce54084f5b9ddd062376
-      internalID: -1028835519
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sharkman_2
+      name: Shark_Orange_1
       rect:
         serializedVersion: 2
         x: 34
         y: 2
-        width: 13
-        height: 12
+        width: 28
+        height: 27
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,8 +142,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1a3579e4da214c45ab34e95e0b04f03
-      internalID: -2073011598
+      spriteID: 65f0351865e0e964996da425345553f4
+      internalID: -637041410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shark_Orange_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1689d8a6458d7345937bfd7b125085b
+      internalID: -2026949521
       vertices: []
       indices: 
       edges: []
@@ -180,9 +180,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Sharkman_0: -83966913
-      Sharkman_1: -1028835519
-      Sharkman_2: -2073011598
+      Shark_Orange_0: 2089119213
+      Shark_Orange_1: -637041410
+      Shark_Orange_2: -2026949521
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
